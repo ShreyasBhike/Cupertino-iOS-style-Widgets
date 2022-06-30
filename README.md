@@ -10,10 +10,9 @@ Beautiful and high-fidelity widgets for current iOS design language. ( Flutter D
         </div>
     </td>
     <td>
-
         <div style="text-align: center;">
-           <img src="https://user-images.githubusercontent.com/70090469/176600056-d6f0f237-8062-4f5c-824f-5ebf12977e2c.png" height="250px"/>
-            <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Alert Dialogue</a></p>
+            <img src="screenshots/2_expanded.png" height="250px"/>
+            <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Expanded</a></p>
         </div>
     </td>
     <td>
