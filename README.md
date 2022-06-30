@@ -12,7 +12,7 @@ Beautiful and high-fidelity widgets for current iOS design language. ( Flutter D
     <td>
         <div style="text-align: center;">
             <img src="https://user-images.githubusercontent.com/70090469/176600363-d061ef1b-b34f-4a17-a98d-9978ad51b800.png" height="250px"/>
-            <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Alert Dialogue</a></p>
+            <p><a href="https://github.com/TheAppWizard/Cupertino-iOS-style-Widgets/blob/main/AlertDialogue.dart" target="_blank">Alert Dialogue</a></p>
         </div>
     </td>
     <td>
