@@ -5,13 +5,14 @@ Beautiful and high-fidelity widgets for current iOS design language. ( Flutter D
   <tr>
     <td>
         <div style="text-align: center;">
-             <img src="https://user-images.githubusercontent.com/70090469/176597390-97d8ceb1-2aa1-41f3-82ff-cf18d2bd32d4.png" height="250px"/>
+             <img src="https://user-images.githubusercontent.com/70090469/176597390-97d8ceb1-2aa1-41f3-82ff-cf18d2bd32d4.png" height="350px"/>
             <p><a href="https://github.com/TheAppWizard/Cupertino-iOS-style-Widgets/blob/main/CupertinoActionSheet.dart" target="_blank">Cupertino Action Sheet</a></p>
         </div>
     </td>
     <td>
+
         <div style="text-align: center;">
-           <img src="https://user-images.githubusercontent.com/70090469/176599505-d06a82e3-6dd4-4cc0-8022-3c07a7a1dc06.png" height="250px"/>
+           <img src="https://user-images.githubusercontent.com/70090469/176600056-d6f0f237-8062-4f5c-824f-5ebf12977e2c.png" height="350px"/>
             <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Alert Dialogue</a></p>
         </div>
     </td>
